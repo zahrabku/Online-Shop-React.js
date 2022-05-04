@@ -1,0 +1,19 @@
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+.logoConatainer{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 80px 0px;
+}
